@@ -1,0 +1,10 @@
+*.o
+a.out
+calc
+
+# Generated lexer
+lexer_flex.c
+
+# Generated parser
+parser_bison.c
+parser_bison.h
